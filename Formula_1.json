@@ -1,0 +1,122 @@
+{
+    "Sergio Pérez": {
+        "tiempo TOTAL en_pista": 6150,
+        "vuelta MAS rapida": 115,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "RED BULL"
+    },
+    "Carlos Sainz": {
+        "tiempo TOTAL en_pista": 6150,
+        "vuelta MAS rapida": 115,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "FERRARI"
+    },
+    "Max Verstappen": {
+        "tiempo TOTAL en_pista": 6140,
+        "vuelta MAS rapida": 116,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "RED BULL"
+    },
+    "Lando Norris": {
+        "tiempo TOTAL en_pista": 6141,
+        "vuelta MAS rapida": 116,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "MCLAREN"
+    },
+    "George Russell": {
+        "tiempo TOTAL en_pista": 6160,
+        "vuelta MAS rapida": 115,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "MERCEDES"
+    },
+    "Esteban Ocon": {
+        "tiempo TOTAL en_pista": 6165,
+        "vuelta MAS rapida": 114,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ALPINE"
+    },
+    "Charles Leclerc": {
+        "tiempo TOTAL en_pista": 6172,
+        "vuelta MAS rapida": 112,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "FERRARI"
+    },
+    "Yuki Tsunoda": {
+        "tiempo TOTAL en_pista": 6175,
+        "vuelta MAS rapida": 115,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ALPHATAURI"
+    },
+    "Oscar Piastri": {
+        "tiempo TOTAL en_pista": 6177,
+        "vuelta MAS rapida": 114,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "MCLAREN"
+    },
+    "Fernando Alonso": {
+        "tiempo TOTAL en_pista": 4720,
+        "vuelta MAS rapida": 111,
+        "TOTAL de vueltas": 40,
+        "Escuderia": "ASTON MARTIN"
+    },
+    "Lewis Hamilton": {
+        "tiempo TOTAL en_pista": 6111,
+        "vuelta MAS rapida": 114,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "MERCEDES"
+    },
+    "Pierre Gasly": {
+        "tiempo TOTAL en_pista": 700,
+        "vuelta MAS rapida": 119,
+        "TOTAL de vueltas": 5,
+        "Escuderia": "ALPINE"
+    },
+    "Lance Stroll": {
+        "tiempo TOTAL en_pista": 6201,
+        "vuelta MAS rapida": 118,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ASTON MARTIN"
+    },
+    "Nyck de Vries": {
+        "tiempo TOTAL en_pista": 6133,
+        "vuelta MAS rapida": 114,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ALPHATAURI"
+    },
+    "Kevin Magnussen": {
+        "tiempo TOTAL en_pista": 1205,
+        "vuelta MAS rapida": 118,
+        "TOTAL de vueltas": 10,
+        "Escuderia": "HAAS"
+    },
+    "Valtteri Bottas": {
+        "tiempo TOTAL en_pista": 6272,
+        "vuelta MAS rapida": 122,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ALFA ROMEO"
+    },
+    "Guanyu Zhou": {
+        "tiempo TOTAL en_pista": 6375,
+        "vuelta MAS rapida": 135,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "ALFA ROMEO"
+    },
+    "Alexander Albon": {
+        "tiempo TOTAL en_pista": 6475,
+        "vuelta MAS rapida": 144,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "WILLIAMS"
+    },
+    "Logan Sargeant": {
+        "tiempo TOTAL en_pista": 5720,
+        "vuelta MAS rapida": 151,
+        "TOTAL de vueltas": 30,
+        "Escuderia": "WILLIAMS"
+    },
+    "Nico Hulkenberg": {
+        "tiempo TOTAL en_pista": 6130,
+        "vuelta MAS rapida": 11,
+        "TOTAL de vueltas": 52,
+        "Escuderia": "HAAS"
+    }
+}
